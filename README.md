@@ -21,8 +21,8 @@ A machine learning system that predicts student placement outcomes with 90.9% ac
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/belladev250/student-placement-prediction.git
-   cd student-placement-prediction
+   git clone https://github.com/belladev250/placement-prediction__ml.git
+   cd placement-prediction__ml
    Install dependencies
 
 pip install pandas numpy scikit-learn tensorflow matplotlib seaborn
