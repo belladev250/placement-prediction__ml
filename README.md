@@ -39,32 +39,32 @@ jupyter notebook Placement_Prediction_Notebook.ipynb
 
 
 # 🧠 Model Architecture
-# - Neural network built using TensorFlow
-# - Optimized for educational dataset characteristics
-# - Balanced precision and recall performance
+ - Neural network built using TensorFlow
+ - Optimized for educational dataset characteristics
+ - Balanced precision and recall performance
 
 
 # 📊 Dataset Features
-# - Academic performance metrics
-# - Placement-related attributes
-# - Historical placement patterns
+- Academic performance metrics
+ - Placement-related attributes
+- Historical placement patterns
 
 
 # 🧭 Future Directions
-# - Generalization Testing: Expand across multiple institutions
-# - Enhanced Features: Include extracurricular activities and leadership data
-# - Architecture Exploration: Experiment with wider/deeper neural networks
-# - Model Interpretability: Create stakeholder-friendly model explanations
-# - Fairness Analysis: Ensure equitable performance across demographic groups
-# - Imbalance Handling: Test on more severe class imbalance scenarios
+ - Generalization Testing: Expand across multiple institutions
+ - Enhanced Features: Include extracurricular activities and leadership data
+  - Architecture Exploration: Experiment with wider/deeper neural networks
+ - Model Interpretability: Create stakeholder-friendly model explanations
+ - Fairness Analysis: Ensure equitable performance across demographic groups
+- Imbalance Handling: Test on more severe class imbalance scenarios
 
 # 📄 Documentation
-# - 📘 Complete Report: Placement_Prediction_Report.pdf — Detailed methodology, results, and bibliography
-# - 📑 IEEE Citations: References follow IEEE formatting standards
-# - 🧭 Implementation Guide: Step-by-step notebook instructions
+ - 📘 Complete Report: Placement_Prediction_Report.pdf — Detailed methodology, results, and bibliography
+ - 📑 IEEE Citations: References follow IEEE formatting standards
+- 🧭 Implementation Guide: Step-by-step notebook instructions
 
 
 # 👩‍💻 Author
-# Bella Melissa Ineza
-# Course: Introduction to Machine Learning (Summative Project)
-# Date: October 2025
+ Bella Melissa Ineza
+ Course: Introduction to Machine Learning (Summative Project)
+ Date: October 2025
