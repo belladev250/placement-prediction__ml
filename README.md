@@ -28,14 +28,13 @@ A machine learning system that predicts student placement outcomes with 90.9% ac
 pip install pandas numpy scikit-learn tensorflow matplotlib seaborn
 
 # 📂 Dataset
-# Download the dataset and place it in the project root directory:
-# Placement_Data_Full_Class.csv
+ Download the dataset and place it in the project root directory:
+ Placement_Data_Full_Class.csv
 
 # ▶️ Run the Notebook
-# Run locally:
-jupyter notebook Placement_Prediction_Notebook.ipynb
-
-# Or open in Google Colab and execute all cells.
+ Run locally:
+jupyter notebook summative_Melissa_Ineza_Bella_Placement_prediciton.ipynb
+ Or open in Google Colab and execute all cells.
 
 
 # 🧠 Model Architecture
