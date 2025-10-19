@@ -25,83 +25,46 @@ A machine learning system that predicts student placement outcomes with 90.9% ac
    cd student-placement-prediction
    Install dependencies
 
-bash
 pip install pandas numpy scikit-learn tensorflow matplotlib seaborn
-Download dataset
 
-Place Placement_Data_Full_Class.csv in the project root directory
+# 📂 Dataset
+# Download the dataset and place it in the project root directory:
+# Placement_Data_Full_Class.csv
 
-Run the notebook
-
-bash
+# ▶️ Run the Notebook
+# Run locally:
 jupyter notebook Placement_Prediction_Notebook.ipynb
-Or open in Google Colab
 
-Execute all cells
+# Or open in Google Colab and execute all cells.
 
-Results and visualizations will generate automatically
 
-🎯 Practical Applications
-Educational institutions can use this model to:
+# 🧠 Model Architecture
+# - Neural network built using TensorFlow
+# - Optimized for educational dataset characteristics
+# - Balanced precision and recall performance
 
-Early Intervention: Identify at-risk students before placement season
 
-Resource Allocation: Target counseling, interview preparation, and skills development
+# 📊 Dataset Features
+# - Academic performance metrics
+# - Placement-related attributes
+# - Historical placement patterns
 
-Trend Monitoring: Track placement patterns across academic years
 
-Proactive Decision Making: Shift from reactive to predictive student support
+# 🧭 Future Directions
+# - Generalization Testing: Expand across multiple institutions
+# - Enhanced Features: Include extracurricular activities and leadership data
+# - Architecture Exploration: Experiment with wider/deeper neural networks
+# - Model Interpretability: Create stakeholder-friendly model explanations
+# - Fairness Analysis: Ensure equitable performance across demographic groups
+# - Imbalance Handling: Test on more severe class imbalance scenarios
 
-📈 Key Features
-High-Recall Performance: 95.7% recall ensures most placed students are correctly identified
+# 📄 Documentation
+# - 📘 Complete Report: Placement_Prediction_Report.pdf — Detailed methodology, results, and bibliography
+# - 📑 IEEE Citations: References follow IEEE formatting standards
+# - 🧭 Implementation Guide: Step-by-step notebook instructions
 
-Institutional Readiness: Designed for practical deployment in educational settings
 
-Comprehensive Analysis: Includes data visualization, feature importance, and model interpretation
-
-Scalable Architecture: Adaptable for larger datasets and additional features
-
-🔬 Technical Details
-Model Architecture
-Neural network implementation using TensorFlow
-
-Optimized for educational dataset characteristics
-
-Balanced performance across precision and recall metrics
-
-Dataset Features
-Academic performance metrics
-
-Placement-related attributes
-
-Historical placement patterns
-
-📚 Future Directions
-Generalization Testing: Expand across multiple institutions
-
-Enhanced Features: Incorporate extracurricular activities and leadership roles
-
-Architecture Exploration: Investigate wider network architectures
-
-Model Interpretability: Develop stakeholder-friendly explanations
-
-Fairness Analysis: Ensure equitable performance across demographic groups
-
-Imbalance Handling: Test with more severe class distribution scenarios
-
-📄 Documentation
-Complete Report: See Placement_Prediction_Report.pdf for detailed methodology, results, and bibliography
-
-IEEE Citations: All references formatted according to IEEE standards
-
-Implementation Guide: Step-by-step instructions in the Jupyter notebook
-
-👩‍💻 Author
-Bella Melissa Ineza
-Course: Introduction to Machine Learning (Summative Project)
-Date: October 2025
-
-📋 Citation
-text
-% See Placement_Prediction_Report.pdf for complete bibliography
-% and in-text citations in IEEE format
+# 👩‍💻 Author
+# Bella Melissa Ineza
+# Course: Introduction to Machine Learning (Summative Project)
+# Date: October 2025
